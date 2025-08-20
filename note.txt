@@ -1,0 +1,53 @@
+Remote repo--i have created a text file 
+i need to update it in local Repo
+this process is called pull.
+$git add .
+$git add ./notes1(folder_name)
+$ git commit -m "I added a new file"
+$git pull
+
+now delete file in remopte repo but still it is present in local repo
+again if u give git pull in cmd the deleted file in remote repo is removed in local repo  
+
+PUSH
+make changes in local REPO
+$ git commit -m "I updated a file"  // gives you the modified red message
+$git add .
+$git add ./notes1(folder_name)
+$ git commit -m "I updated a new file"
+$git push
+
+day 2
+interpreter converts data into integer to float but not float to integer
+day3
+in python for loop i+=2 is waste it doesn't increment ,,,,if we need to increment then use step size in range like for i in range(1,10,2)
+*var_args- takes any number of arguments like my_range(1,100,2,3....)
+yield:it gives values to some function
+map:access all the elements one by one 
+application :we use application and application use softwareto give output
+pymysql:it is a bridge
+
+day4:
+if size  of an array is fixed then wastage or shortage of memory occurs
+memory is allocated during run time only,but how much memory is allocated is decided  at runtime depending upon  user variable type... static and dynamically
+java:we only allocate but no deallocation concept 
+c++:we can allocate and deaalocate
+python: we neither allocate nor deallocate
+setter and getter methods: set is also called as mutators(modifies the values) and get is also called as accessors(reads the values).
+if we achive encapsulation then abstraction is also done 
+class:it is a solution for an entity ,objects are created while accessing a class .
+class NRIAccount (Account):         # python inheritance:add new features to the existing solution but it should not change the existing solutions..
+  def __init__(self):
+     passportNumber = ""
+
+to use extends we need 2 lists
+reverse() is by default False 
+sort() is mutators
+list2=sorted(list1):this remains the list 1 values same but list2 is sorted   # deep copy:one list remains same but another list is sorted or changed
+																		       #shallow copy:both the lists are change
+day5:
+print(capitals[::3]) =====>  start:stop:jump
+enumerate: it will give index with element
+in odd placed even digits and in even place odd digits and sum :789648756
+30 square= 900: 31 square add 30+31 to 900
+29 square subtract 30+29  to 900
