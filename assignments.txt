@@ -134,4 +134,50 @@ All the crops are sowed at the same time. Mahesh gets the above yield at the abo
 in one crop cycle across his entire land of 80 acres.
 What is
 a. The overall sales achieved by Mahesh from the 80 acres of land.
-b.  
+
+
+Doubts: dev.morzilla.org--html,javascript, docs.oracle.com-java, pythonic.docs.com -python, c,c++ - ibm,microsoft
+-----> Learn output formatting in taxation problem 
+----->why in pytrhon we dont have incfement and decrement operators.
+----->learn about __main__
+-----> what is pep3 and pythonic
+-----> can we modify the list which is element of tuple
+-----> passing command line arguments in my range function
+-----> why argv stores file name in python , but not in java
+-----> why in python there is no implict type casting , as in java we can add a string with int which excplictly converts int into string 
+--->applications vs software
+-----> 
+
+# research 
+floating point numbers are stored using IEEE standards.
+in relational operator using two operator we can construct others.so we need to find out 2 required operator//< and ==
+ordering mutiple items at a time:restaurant.py
+
+Inheritance:class A is fully developed package and that is inherited for class B
+Polymorphism:one problem multiple solutions
+when we inherit the existing solution with even more new features:inheritance
+bad inheritance:adding more features than required
+why inheritance:
+you can sell diff product to diff customer
+Association:
+the  whole object and part object cannot exist independent of each other 
+eg:pen and cap,mobile and battery
+Aggregation:the  whole object and part object can exist independent of each other 
+ex:music system and car
+input() = is a function from core python library and it reads and returns it as a string alternatively we can pass srting to it and print it in the console.
+Dr Subramaniam Swamy
+diff between scanf and gets ,printf and puts
+until i give some specified symbol it should take input from me : do this in python sir is already done in c
+address of first element ,addresss of first byte of first element both are same==>1201
+address of last element==>1237,address of last byte of last element==>1240
+address:size of the data type property
+address-address:numbers===>number is number of bytes between the elements
+address-numbers:address
+address+numbers:address
+(linked list : we never see wastage )===>learn about this,,time effeciancy : O(n)
+list methods:definition(learn) (append,extends see list3.py)
+__repr__ important... just type list1.         you will get all the methods.
+why there is no IndexError in the case of Slicing
+implement a function find which mimics the find method of string class
+why *args?
+my_find_str.py: other 2 condition start index and end index
