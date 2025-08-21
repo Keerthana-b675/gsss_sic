@@ -1,8 +1,8 @@
 from collections import Counter
 
-n = int(input())                # size of first list
+n = int(input())                
 first = list(map(int, input().split()))
-m = int(input())                # size of second list
+m = int(input())               
 second = list(map(int, input().split()))
 
 cfirst, csecond = Counter(first), Counter(second)
