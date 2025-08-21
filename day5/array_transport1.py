@@ -1,11 +1,11 @@
 from collections import Counter
 
 n = int(input())                # size of first list
-arr = list(map(int, input().split()))
+first = list(map(int, input().split()))
 m = int(input())                # size of second list
-brr = list(map(int, input().split()))
+second = list(map(int, input().split()))
 
-ca, cb = Counter(arr), Counter(brr)
+cfirst, csecond = Counter(first), Counter(second)
 
-missing = sorted([x for x in cb if cb[x] > ca[x]])
+missing = sorted([x for x in csecond if csecond[x] > cfirst[x]])
 print(*missing)
