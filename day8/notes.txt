@@ -1,0 +1,26 @@
+i++;
+j--;
+a[i] = b[j];
+b[j]++;
+
+a[++i] = b[--j]++;
+
+
+Person:
+    id, name, gender, age, location
+
+Flight:
+    id, airline, source, destination, fare, duration
+
+Book:
+    id, title, author, price, publisher, edition, number_of_pages 
+---------------------------------------------------------
+BUBBLE SORT
+
+
+go to rnsit repo for flask (day6)
+KLeit suhas did one project nice seee
+flask do for login logout options
+start proj numpy pandas
+cart js program using bootstrap
+hackerrank,leetcode,codeforce
