@@ -1,0 +1,10 @@
+PatientID,Name,Age,Gender,Department,Diagnosis,Doctor Name,AdmissionDate,DischargeDate
+P001,Michael Lee,29,M,Orthopedics,Fracture,Dr.Hemanth,2023-08-03 00:00:00,2025-02-09 12:08:18.996483
+P002,Linda Brown,47,F,Neurology,Epilepsy,Dr.Priya,2023-12-03 00:00:00,2025-09-02 23:15:19.876673
+P003,Robert Wilson,39,M,Cardiology,Arrhythmia,Dr.Umesh,2023-02-14,2025-02-09 12:08:18.996483
+P004,Anna Scott,40,F,Cardiology,Hypertension,Dr.Lakshmi,2023-03-18,2025-02-09 12:08:18.996483
+P005,Keerthana,26,F,Pediatrics,Unknown,Dr.Rathna,2025-12-05 00:00:00,2025-09-02 23:15:19.876673
+P006,Spandana,25,F,Radiology,x-ray,Dr.Shrikanth,2025-05-24,2025-09-02 23:15:19.876673
+P007,Archana,21,F,Dermatology,Skin,Dr.Ashwini,2025-08-21,2025-02-09 12:08:18.996483
+P008,Sanvi,29,F,Psychiatry,Unknown,Dr.Dhanya,2025-08-29,2025-01-09 00:00:00
+01,keerthana,89,F,cardio,heart,sudha,2025-09-02 00:00:00,2025-09-02 00:00:00
